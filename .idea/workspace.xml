@@ -149,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599052918828</updated>
-      <workItem from="1599052920038" duration="1416000" />
+      <workItem from="1599052920038" duration="1718000" />
     </task>
     <servers />
   </component>
@@ -157,6 +157,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="976" y="562" key="Github.ShareDialog" timestamp="1599054577399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="976" y="562" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599054577399" />
     <state x="1015" y="761" key="NewPhpFileDialog" timestamp="1599054138257">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
